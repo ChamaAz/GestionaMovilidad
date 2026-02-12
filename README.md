@@ -24,7 +24,6 @@ Permite que los residentes y huéspedes de hoteles soliciten permisos, mientras 
 La aplicación trabaja con varios ficheros que contienen información sobre vehículos:
 
 1. `vehiculos.txt` → Matrículas detectadas por cámaras de vigilancia:
-
 2. `vehiculosEMT.txt` → Vehículos de la EMT: matrícula y plaza asignada.  
 3. `taxis.txt` → Información de taxis autorizados.  
 4. `servicios.txt` → Vehículos de servicios públicos.  
@@ -67,8 +66,7 @@ La aplicación trabaja con varios ficheros que contienen información sobre veh�
 - **Frontend:** HTML5, CSS3  
 - **Gestión de ficheros:** Lectura/escritura de `.txt`  
 - **Cookies y control de sesiones** para usuarios registrados  
-- **Servidor local:** XAMPP / MAMP / LAMP  
-
+- **Servidor local:** XAMPP 
 ---
 
 ## 🚀 Cómo ejecutar la aplicación
