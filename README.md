@@ -74,6 +74,10 @@ La aplicación trabaja con varios ficheros que contienen información sobre veh�
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## Contribuciones
+Realiza un fork, crea tu rama, haz cambios y envía un pull request.
+## Licencia
+MIT
 
 ## 🚀 Cómo ejecutar la aplicación
 
@@ -81,3 +85,5 @@ La aplicación trabaja con varios ficheros que contienen información sobre veh�
 
 ```bash
 git clone https://github.com/ChamaAz/GestionaMovilidad.git
+
+⭐ Si te gusta el proyecto, ¡dale una estrella y haz un fork!
